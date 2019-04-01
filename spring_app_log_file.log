@@ -1,0 +1,206 @@
+"2019-04-01 08:42:03 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2d16h9m25s580ms841µs674ns).
+""2019-04-01 10:22:07 - Employee id to delete 13
+""2019-04-01 10:22:08 - Employee id to delete 14
+""2019-04-01 10:22:08 - Employee id to delete 15
+""2019-04-01 10:22:09 - Employee id to delete 16
+""2019-04-01 10:22:09 - Employee id to delete 17
+""2019-04-01 10:22:10 - Employee id to delete 18
+""2019-04-01 11:42:34 - Employee id to delete 22
+""2019-04-01 11:43:16 - Employee id to delete 
+""2019-04-01 11:43:16 - Employee id to delete 2
+""2019-04-01 11:43:16 - try to delete
+""2019-04-01 11:43:18 - Employee id to delete 
+""2019-04-01 11:43:18 - Employee id to delete 4
+""2019-04-01 11:43:18 - try to delete
+""2019-04-01 14:28:51 - Starting SpringBootJwtAuthenticationApplication on USH830L0BN with PID 8092 (started by OE47041 in C:\Users\oe47041\Desktop\DOWNLOADED TUTORIALS\SpringBootJwtAuthentication)
+""2019-04-01 14:28:51 - No active profile set, falling back to default profiles: default
+""2019-04-01 14:28:51 - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@a530d0a: startup date [Mon Apr 01 14:28:51 EDT 2019]; root of context hierarchy
+""2019-04-01 14:28:53 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9f03a6c4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:28:53 - Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$37b16efe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:28:53 - Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:28:53 - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@19ccca5' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:28:53 - Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$5c8611b0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:28:53 - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:28:54 - Tomcat initialized with port(s): 8080 (http)
+""2019-04-01 14:28:54 - Starting service [Tomcat]
+""2019-04-01 14:28:54 - Starting Servlet Engine: Apache Tomcat/8.5.34
+""2019-04-01 14:28:54 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WinZip\;C:\Program Files (x86)\CheckPoint\Endpoint Security\Endpoint Common\bin;C:\Program Files (x86)\HID Global\ActivClient\;C:\Program Files\HID Global\ActivClient\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files (x86)\Maven\apache-maven-3.3.9\\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\oe47041\AppData\Local\GitHubDesktop\bin;C:\Users\oe47041\AppData\Local\Programs\Microsoft VS Code\bin;.]
+""2019-04-01 14:28:55 - Initializing Spring embedded WebApplicationContext
+""2019-04-01 14:28:55 - Root WebApplicationContext: initialization completed in 3442 ms
+""2019-04-01 14:28:55 - HikariPool-1 - Starting...
+""2019-04-01 14:28:55 - HikariPool-1 - Start completed.
+""2019-04-01 14:28:55 - Building JPA container EntityManagerFactory for persistence unit 'default'
+""2019-04-01 14:28:56 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+""2019-04-01 14:28:56 - HHH000412: Hibernate Core {5.2.17.Final}
+""2019-04-01 14:28:56 - HHH000206: hibernate.properties not found
+""2019-04-01 14:28:56 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+""2019-04-01 14:28:56 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""2019-04-01 14:28:57 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2019-04-01 14:28:58 - Mapping filter: 'characterEncodingFilter' to: [/*]
+""2019-04-01 14:28:58 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+""2019-04-01 14:28:58 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+""2019-04-01 14:28:58 - Mapping filter: 'requestContextFilter' to: [/*]
+""2019-04-01 14:28:58 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+""2019-04-01 14:28:58 - Mapping filter: 'authenticationJwtTokenFilter' to: [/*]
+""2019-04-01 14:28:58 - Servlet dispatcherServlet mapped to [/]
+""2019-04-01 14:28:58 - Servlet webServlet mapped to [/h2-console/*]
+""2019-04-01 14:28:58 - Executing SQL script from URL [file:/C:/Users/oe47041/Desktop/DOWNLOADED%20TUTORIALS/SpringBootJwtAuthentication/target/classes/data.sql]
+""2019-04-01 14:28:58 - Executed SQL script from URL [file:/C:/Users/oe47041/Desktop/DOWNLOADED%20TUTORIALS/SpringBootJwtAuthentication/target/classes/data.sql] in 15 ms.
+""2019-04-01 14:28:59 - Starting SpringBootJwtAuthenticationApplication on USH830L0BN with PID 9896 (started by OE47041 in C:\Users\oe47041\Desktop\DOWNLOADED TUTORIALS\SpringBootJwtAuthentication)
+""2019-04-01 14:28:59 - No active profile set, falling back to default profiles: default
+""2019-04-01 14:28:59 - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@366c4480: startup date [Mon Apr 01 14:28:59 EDT 2019]; root of context hierarchy
+""2019-04-01 14:29:00 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+""2019-04-01 14:29:00 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-04-01 14:29:00 - Mapped "{[/api/auth/signin],methods=[POST]}" onto public org.springframework.http.ResponseEntity<?> com.edwards.controller.AuthRestAPIs.authenticateUser(com.edwards.message.request.LoginForm)
+""2019-04-01 14:29:00 - Mapped "{[/api/auth/signup],methods=[POST]}" onto public org.springframework.http.ResponseEntity<?> com.edwards.controller.AuthRestAPIs.registerUser(com.edwards.message.request.SignUpForm)
+""2019-04-01 14:29:00 - Mapped "{[/api/file/{keyname}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<byte[]> com.edwards.controller.DownloadFileController.downloadFile(java.lang.String) throws com.amazonaws.services.dlm.model.ResourceNotFoundException
+""2019-04-01 14:29:00 - Mapped "{[/api/file/all],methods=[GET]}" onto public java.util.List<java.lang.String> com.edwards.controller.DownloadFileController.listAllFiles()
+""2019-04-01 14:29:00 - Mapped "{[/empl-list],methods=[GET]}" onto public java.util.List<com.edwards.model.Empl> com.edwards.controller.EmplContr.getAllEmpl()
+""2019-04-01 14:29:00 - Mapped "{[/empl-list],methods=[POST]}" onto public com.edwards.model.Empl com.edwards.controller.EmplContr.createEmployee(com.edwards.model.Empl)
+""2019-04-01 14:29:00 - Mapped "{[/empl-list/{id}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.Empl> com.edwards.controller.EmplContr.findByID(java.lang.Long)
+""2019-04-01 14:29:00 - Mapped "{[/empl-list/{id}],methods=[PUT]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.Empl> com.edwards.controller.EmplContr.updateEmpl(java.lang.Long,com.edwards.model.Empl)
+""2019-04-01 14:29:00 - Mapped "{[/empl-list/{id}],methods=[DELETE]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.Empl> com.edwards.controller.EmplContr.deleteEmpl(java.lang.Long)
+""2019-04-01 14:29:00 - Mapped "{[/api/test/pm],methods=[GET]}" onto public java.lang.String com.edwards.controller.TestRestAPIs.projectManagementAccess()
+""2019-04-01 14:29:00 - Mapped "{[/api/test/user],methods=[GET]}" onto public java.lang.String com.edwards.controller.TestRestAPIs.userAccess()
+""2019-04-01 14:29:00 - Mapped "{[/api/test/admin],methods=[GET]}" onto public java.lang.String com.edwards.controller.TestRestAPIs.adminAccess()
+""2019-04-01 14:29:00 - Mapped "{[/api/file/upload],methods=[POST]}" onto public java.lang.String com.edwards.controller.UploadFileController.uploadMultipartFile(org.springframework.web.multipart.MultipartFile)
+""2019-04-01 14:29:00 - Mapped "{[/admin/{id}],methods=[DELETE]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.User> com.edwards.controller.UserContr.delete(java.lang.Long)
+""2019-04-01 14:29:00 - Mapped "{[/admin/{id}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.User> com.edwards.controller.UserContr.findByID(java.lang.Long)
+""2019-04-01 14:29:00 - Mapped "{[/admin/roles],methods=[GET]}" onto public java.util.List<com.edwards.model.Role> com.edwards.controller.UserContr.getAllRoles()
+""2019-04-01 14:29:00 - Mapped "{[/admin],methods=[GET]}" onto public java.util.List<com.edwards.model.User> com.edwards.controller.UserContr.getAllUsers()
+""2019-04-01 14:29:00 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+""2019-04-01 14:29:00 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+""2019-04-01 14:29:00 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+""2019-04-01 14:29:00 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+""2019-04-01 14:29:00 - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@b0a1231, org.springframework.security.web.context.SecurityContextPersistenceFilter@4b31a708, org.springframework.security.web.header.HeaderWriterFilter@2f0ed952, org.springframework.web.filter.CorsFilter@4833eff3, org.springframework.security.web.authentication.logout.LogoutFilter@59fbb34, com.edwards.security.jwt.JwtAuthTokenFilter@55034920, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@70d63e05, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1e1b061, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4694f434, org.springframework.security.web.session.SessionManagementFilter@68565bc7, org.springframework.security.web.access.ExceptionTranslationFilter@46e64760, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@19e0dffe]
+""2019-04-01 14:29:01 - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@a530d0a: startup date [Mon Apr 01 14:28:51 EDT 2019]; root of context hierarchy
+""2019-04-01 14:29:02 - Tomcat started on port(s): 8080 (http) with context path ''
+""2019-04-01 14:29:02 - Started SpringBootJwtAuthenticationApplication in 11.936 seconds (JVM running for 13.994)
+""2019-04-01 14:29:02 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5fed7384] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:29:02 - Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$f89b3bbe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:29:02 - Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:29:02 - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@4b0b64cc' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:29:02 - Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$1d6fde70] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:29:02 - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-04-01 14:29:03 - Tomcat initialized with port(s): 8080 (http)
+""2019-04-01 14:29:03 - Starting service [Tomcat]
+""2019-04-01 14:29:03 - Starting Servlet Engine: Apache Tomcat/8.5.34
+""2019-04-01 14:29:03 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WinZip\;C:\Program Files (x86)\CheckPoint\Endpoint Security\Endpoint Common\bin;C:\Program Files (x86)\HID Global\ActivClient\;C:\Program Files\HID Global\ActivClient\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files (x86)\Maven\apache-maven-3.3.9\\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\oe47041\AppData\Local\GitHubDesktop\bin;C:\Users\oe47041\AppData\Local\Programs\Microsoft VS Code\bin;.]
+""2019-04-01 14:29:04 - Initializing Spring embedded WebApplicationContext
+""2019-04-01 14:29:04 - Root WebApplicationContext: initialization completed in 4323 ms
+""2019-04-01 14:29:04 - HikariPool-1 - Starting...
+""2019-04-01 14:29:05 - HikariPool-1 - Start completed.
+""2019-04-01 14:29:05 - Building JPA container EntityManagerFactory for persistence unit 'default'
+""2019-04-01 14:29:05 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+""2019-04-01 14:29:05 - HHH000412: Hibernate Core {5.2.17.Final}
+""2019-04-01 14:29:05 - HHH000206: hibernate.properties not found
+""2019-04-01 14:29:05 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+""2019-04-01 14:29:05 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""2019-04-01 14:29:07 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2019-04-01 14:29:08 - Mapping filter: 'characterEncodingFilter' to: [/*]
+""2019-04-01 14:29:08 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+""2019-04-01 14:29:08 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+""2019-04-01 14:29:08 - Mapping filter: 'requestContextFilter' to: [/*]
+""2019-04-01 14:29:08 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+""2019-04-01 14:29:08 - Mapping filter: 'authenticationJwtTokenFilter' to: [/*]
+""2019-04-01 14:29:08 - Servlet dispatcherServlet mapped to [/]
+""2019-04-01 14:29:08 - Servlet webServlet mapped to [/h2-console/*]
+""2019-04-01 14:29:08 - Executing SQL script from URL [file:/C:/Users/oe47041/Desktop/DOWNLOADED%20TUTORIALS/SpringBootJwtAuthentication/target/classes/data.sql]
+""2019-04-01 14:29:08 - Executed SQL script from URL [file:/C:/Users/oe47041/Desktop/DOWNLOADED%20TUTORIALS/SpringBootJwtAuthentication/target/classes/data.sql] in 23 ms.
+""2019-04-01 14:29:10 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+""2019-04-01 14:29:10 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-04-01 14:29:10 - Mapped "{[/api/auth/signin],methods=[POST]}" onto public org.springframework.http.ResponseEntity<?> com.edwards.controller.AuthRestAPIs.authenticateUser(com.edwards.message.request.LoginForm)
+""2019-04-01 14:29:10 - Mapped "{[/api/auth/signup],methods=[POST]}" onto public org.springframework.http.ResponseEntity<?> com.edwards.controller.AuthRestAPIs.registerUser(com.edwards.message.request.SignUpForm)
+""2019-04-01 14:29:10 - Mapped "{[/api/file/all],methods=[GET]}" onto public java.util.List<java.lang.String> com.edwards.controller.DownloadFileController.listAllFiles()
+""2019-04-01 14:29:10 - Mapped "{[/api/file/{keyname}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<byte[]> com.edwards.controller.DownloadFileController.downloadFile(java.lang.String) throws com.amazonaws.services.dlm.model.ResourceNotFoundException
+""2019-04-01 14:29:10 - Mapped "{[/empl-list],methods=[GET]}" onto public java.util.List<com.edwards.model.Empl> com.edwards.controller.EmplContr.getAllEmpl()
+""2019-04-01 14:29:10 - Mapped "{[/empl-list],methods=[POST]}" onto public com.edwards.model.Empl com.edwards.controller.EmplContr.createEmployee(com.edwards.model.Empl)
+""2019-04-01 14:29:10 - Mapped "{[/empl-list/{id}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.Empl> com.edwards.controller.EmplContr.findByID(java.lang.Long)
+""2019-04-01 14:29:10 - Mapped "{[/empl-list/{id}],methods=[PUT]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.Empl> com.edwards.controller.EmplContr.updateEmpl(java.lang.Long,com.edwards.model.Empl)
+""2019-04-01 14:29:10 - Mapped "{[/empl-list/{id}],methods=[DELETE]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.Empl> com.edwards.controller.EmplContr.deleteEmpl(java.lang.Long)
+""2019-04-01 14:29:10 - Mapped "{[/api/test/admin],methods=[GET]}" onto public java.lang.String com.edwards.controller.TestRestAPIs.adminAccess()
+""2019-04-01 14:29:10 - Mapped "{[/api/test/user],methods=[GET]}" onto public java.lang.String com.edwards.controller.TestRestAPIs.userAccess()
+""2019-04-01 14:29:10 - Mapped "{[/api/test/pm],methods=[GET]}" onto public java.lang.String com.edwards.controller.TestRestAPIs.projectManagementAccess()
+""2019-04-01 14:29:10 - Mapped "{[/api/file/upload],methods=[POST]}" onto public java.lang.String com.edwards.controller.UploadFileController.uploadMultipartFile(org.springframework.web.multipart.MultipartFile)
+""2019-04-01 14:29:10 - Mapped "{[/admin/{id}],methods=[DELETE]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.User> com.edwards.controller.UserContr.delete(java.lang.Long)
+""2019-04-01 14:29:10 - Mapped "{[/admin/{id}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<com.edwards.model.User> com.edwards.controller.UserContr.findByID(java.lang.Long)
+""2019-04-01 14:29:10 - Mapped "{[/admin/roles],methods=[GET]}" onto public java.util.List<com.edwards.model.Role> com.edwards.controller.UserContr.getAllRoles()
+""2019-04-01 14:29:10 - Mapped "{[/admin],methods=[GET]}" onto public java.util.List<com.edwards.model.User> com.edwards.controller.UserContr.getAllUsers()
+""2019-04-01 14:29:10 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+""2019-04-01 14:29:10 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+""2019-04-01 14:29:10 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+""2019-04-01 14:29:10 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+""2019-04-01 14:29:10 - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@10a907ec, org.springframework.security.web.context.SecurityContextPersistenceFilter@5520f675, org.springframework.security.web.header.HeaderWriterFilter@53016b11, org.springframework.web.filter.CorsFilter@59b492ec, org.springframework.security.web.authentication.logout.LogoutFilter@65600fb3, com.edwards.security.jwt.JwtAuthTokenFilter@3cb5aa7e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@48f2054d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@34009349, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@55c1ced9, org.springframework.security.web.session.SessionManagementFilter@51f68849, org.springframework.security.web.access.ExceptionTranslationFilter@4ee8051c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7af1d072]
+""2019-04-01 14:29:12 - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@366c4480: startup date [Mon Apr 01 14:28:59 EDT 2019]; root of context hierarchy
+""2019-04-01 14:29:12 - Failed to start connector [Connector[HTTP/1.1-8080]]
+"org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:780)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:333)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1277)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1265)
+	at com.edwards.SpringBootJwtAuthenticationApplication.main(SpringBootJwtAuthenticationApplication.java:13)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:219)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1151)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018)
+	... 14 common frames omitted
+"2019-04-01 14:29:12 - Stopping service [Tomcat]
+""2019-04-01 14:29:12 - The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+ java.lang.Thread.run(Thread.java:745)
+""2019-04-01 14:29:12 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+""2019-04-01 14:29:12 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+""2019-04-01 14:29:12 - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@366c4480: startup date [Mon Apr 01 14:28:59 EDT 2019]; root of context hierarchy
+""2019-04-01 14:29:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+""2019-04-01 14:29:12 - HikariPool-1 - Shutdown initiated...
+""2019-04-01 14:29:12 - HikariPool-1 - Shutdown completed.
+""2019-04-01 14:35:22 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+""2019-04-01 14:35:22 - FrameworkServlet 'dispatcherServlet': initialization started
+""2019-04-01 14:35:22 - FrameworkServlet 'dispatcherServlet': initialization completed in 60 ms
+""2019-04-01 14:35:23 - HHH000397: Using ASTQueryTranslatorFactory
+"
